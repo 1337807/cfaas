@@ -4,6 +4,7 @@
   "private": true,
   "scripts": {
     "preinstall": "npm i -g nodemon",
+    "preinstall": "npm i -g express",
     "start": "nodemon ./bin/www"
   },
   "dependencies": {
