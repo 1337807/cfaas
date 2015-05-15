@@ -4,6 +4,7 @@
   "private": true,
   "scripts": {
     "preinstall": "npm i express",
+    "preinstall": "npm i crc",
     "start": "node ./bin/www"
   },
   "dependencies": {
